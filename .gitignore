@@ -3,4 +3,5 @@ bazel-genfiles
 bazel-out
 bazel-testlogs
 bazel-vulkan_renderer
+bazel-vulkan-renderer
 .vscode
